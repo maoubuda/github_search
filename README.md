@@ -16,7 +16,7 @@ python manage.py runserver
 
 ```
 
-abra outro terminal e execute o arquivo main.py :
+Abra outro terminal e execute o arquivo main.py :
 
 ```
 cd ..
